@@ -1,3 +1,4 @@
+CREATE TABLE kimia_farma.kf_sales_analysis AS
 SELECT
   t.transaction_id,
   t.date,
